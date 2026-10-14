@@ -8,15 +8,15 @@ assistant. Doctors, reception, ambulance crew, chemist and admin each get their 
 
 | Week | Focus | What was built | Status |
 | ---- | ----- | -------------- | ------ |
-| 1 | Project setup | React + TanStack Start app, Supabase database schema, landing page, student sign in / sign up, dashboard, profile, Health Centre page | ✅ Done |
-| 2 | Book appointment | Doctor list with a slot dropdown per doctor, 20-minute slots (9 AM – 2 PM, 3 PM – 8 PM), one student per slot enforced in the database, queue token, cancel booking | ✅ Done |
-| 3 | Talk to a doctor | Online consultations with chat, choice of doctor, video call | ✅ Done |
-| 4 | Medicines | Catalogue of 40 commonly available medicines with categories and search, cart with total, prescription upload, pay on delivery, order tracking | ✅ Done |
-| 5 | AI health assistant | Symptom chat powered by Gemini with a triage verdict (self-care / book a doctor / go to emergency) | ✅ Done |
-| 6 | Emergency | SOS with live location, campus emergency numbers, ambulance desk showing caller, phone, location and emergency contacts | ✅ Done |
-| 7 | Staff desks | Pharmacy desk (chemist adds / edits medicines, handles orders, phone shown after COD), doctor desk (patients, leave, block slots), reception desk (book / cancel for patients) | ✅ Done |
-| 8 | Roles & admin | Notifications when an appointment is cancelled or booked for you, admin console (doctors, doctor leave, notices, roles), staff login for every role, demo accounts | ✅ Done |
-| 9 | Next up | Walk-in patients at reception, separate payment records, automated tests, deployment | ⏳ Planned |
+| 1 | Project setup | React + TanStack Start app, Supabase database schema, landing page, student sign in / sign up, dashboard, profile, Health Centre page |  Done |
+| 2 | Book appointment | Doctor list with a slot dropdown per doctor, 20-minute slots (9 AM – 2 PM, 3 PM – 8 PM), one student per slot enforced in the database, queue token, cancel booking |  Done |
+| 3 | Talk to a doctor | Online consultations with chat, choice of doctor, video call |  Done |
+| 4 | Medicines | Catalogue of 40 commonly available medicines with categories and search, cart with total, prescription upload, pay on delivery, order tracking | Done |
+| 5 | AI health assistant | Symptom chat powered by Gemini with a triage verdict (self-care / book a doctor / go to emergency) | Done |
+| 6 | Emergency | SOS with live location, campus emergency numbers, ambulance desk showing caller, phone, location and emergency contacts |  Done |
+| 7 | Staff desks | Pharmacy desk (chemist adds / edits medicines, handles orders, phone shown after COD), doctor desk (patients, leave, block slots), reception desk (book / cancel for patients) | Done |
+| 8 | Roles & admin | Notifications when an appointment is cancelled or booked for you, admin console (doctors, doctor leave, notices, roles), staff login for every role, demo accounts |  Done |
+| 9 | Next up | Walk-in patients at reception, separate payment records, automated tests, deployment |  Planned |
 
 ## Stack
 
